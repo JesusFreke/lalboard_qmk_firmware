@@ -1,6 +1,7 @@
 {
   "manufacturer": "lalboard",
   "keyboard_name": "lalboard",
+  "board": "GENERIC_RP_RP2040",
   "url": "http://lalboard.com",
   "maintainer": "JesusFreke",
   "features": {
