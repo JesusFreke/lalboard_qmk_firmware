@@ -36,10 +36,12 @@
     "transport": {
       "protocol": "serial",
       "sync_matrix_state": false,
-      "sync_modifiers": false
+      "sync_modifiers": false,
+      "watchdog": true
     },
     "usb_detect": {
-      "enabled": true
+      "enabled": true,
+      "timeout": 5000
     }
   },
   "width": 20.5,
