@@ -32,6 +32,7 @@
 #define DEBOUNCE 0
 
 #define EE_HANDS
+#define MASTER_RIGHT
 
 //#define DEBUG_MATRIX_SCAN_RATE
 
